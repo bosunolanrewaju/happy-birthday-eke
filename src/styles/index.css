@@ -4,10 +4,16 @@
 @tailwind utilities;
 
 @layer base {
-  html {
-    background-color: #111418;
+  html,
+  .comments {
+    background-color: #ef9738;
+    /* background-color: #111418; */
     color: white;
     font-family: 'DM Sans', serif;
+  }
+
+  .comments .text {
+    background-color: #84531f;
   }
 
   * {
