@@ -22,11 +22,11 @@ function App() {
       className="text-center h-screen max-w-lg mx-auto scroll-snap overflow-y-auto"
       ref={parentContainerRef}>
       <section className="h-screen flex flex-col items-center snap">
-        <h1 className="text-[3rem] max-w-[9ch] leading-[3rem] mt-12">
+        <h1 className="text-[3rem] max-w-[11ch] leading-[3rem] mt-12 text-center">
           Congratulations Dipo & Seyi!
         </h1>
-        <hr className="w-14 h-[0.125rem] gradient mt-7" />
-        <div className="flex items-center space-x-3 mt-6">
+        <hr className="w-14 h-[0.125rem] gradient mt-5" />
+        <div className="flex items-center space-x-3 mt-5">
           <span className="text-base">
             Your family and friends put together some messages for you both, enjoy!
           </span>
@@ -36,10 +36,10 @@ function App() {
           alt="Seyi at the baby shower"
           width={211}
           height={209}
-          className="mt-[4.875rem] rounded-[.625rem]"
+          className="mt-[3.875rem] rounded-[.625rem]"
         />
         <button
-          className="h-14 flex items-center space-x-[.625rem] rounded-[3.125rem] mt-[4.75rem] gradient px-8"
+          className="h-14 flex items-center space-x-[.625rem] rounded-[3.125rem] mt-[3.75rem] gradient px-8"
           onClick={goToNextVideo}>
           <Play className="text-lg" />
           <span className="text-lg">Play Videos</span>
