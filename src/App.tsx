@@ -22,7 +22,7 @@ function App() {
       className="text-center h-screen max-w-lg mx-auto scroll-snap overflow-y-auto"
       ref={parentContainerRef}>
       <section className="h-screen flex flex-col items-center snap">
-        <h1 className="text-[3.5rem] max-w-[9ch] leading-[3.25rem] mt-12">
+        <h1 className="text-[3rem] max-w-[9ch] leading-[3rem] mt-12">
           Congratulations Dipo & Seyi!
         </h1>
         <hr className="w-14 h-[0.125rem] gradient mt-7" />
@@ -62,7 +62,7 @@ function App() {
         }
       })}
       <section className="comments h-screen px-5 snap flex flex-col py-[6.6875rem]">
-        <p className="text-[3.5rem] leading-[3.25rem] font-medium whitespace-pre-wrap text-left">
+        <p className="text-[3rem] leading-[3rem] font-medium whitespace-pre-wrap text-left">
           <span className="text-[#455463]">Here&apos;s to celebrating</span> a new life, a
           new adventure,
           <br />
