@@ -68,7 +68,7 @@ function App() {
           <br />
           <span className="text-[#455463]">and</span> many firsts!
           <br />
-          Congratulations!
+          Cheers!
         </p>
         <hr className="mt-auto" />
         <p className="mt-4 text-[#667B8F]">Courtesy: Family & Friends</p>
@@ -83,6 +83,15 @@ const showerWishes = [
     type: 'video',
     url: 'https://elmagnifico.s3.eu-west-2.amazonaws.com/debbie.MP4',
   },
+  // {
+  //   type: 'image',
+  //   comment: {
+  //     name: 'Leke',
+  //     comment: `
+      
+  //     `,
+  //   },
+  // },
   {
     type: 'video',
     url: 'https://elmagnifico.s3.eu-west-2.amazonaws.com/busayo.MP4',
@@ -94,13 +103,22 @@ const showerWishes = [
       comment: `
       Congratulations dearest Sisi, I know that you'll be an amazing mum.
       Would have given you tips but I know that you are a pro (Aunty of the year) on the subject matter.
-      May the lord bless and keep your family. Lots oflove from your "fish".
+      May the lord bless and keep your family. Lots of love from your "fish".
       `,
     },
   },
   {
     type: 'video',
     url: 'https://elmagnifico.s3.eu-west-2.amazonaws.com/lara.MP4',
+  },
+  {
+    type: 'image',
+    comment: {
+      name: 'Mummy',
+      comment: `
+      Asokale ayo ni oruko Jesu, my darling queen.
+      `,
+    },
   },
   {
     type: 'video',
@@ -122,6 +140,17 @@ const showerWishes = [
     url: 'https://elmagnifico.s3.eu-west-2.amazonaws.com/bunmi.mp4',
   },
   {
+    type: 'image',
+    comment: {
+      name: 'Niyi',
+      comment: `
+      To the soon to be parents!
+      Wishing you all the best with the new baby who is not far away now.
+      We can't wait to meet the little one.
+      `,
+    },
+  },
+  {
     type: 'video',
     url: 'https://elmagnifico.s3.eu-west-2.amazonaws.com/yinka.MP4',
   },
@@ -130,7 +159,7 @@ const showerWishes = [
     comment: {
       name: 'Toyosi',
       comment: `
-      Congratulations on your baby girl Oremi.
+      Congratulations on your baby girl, Oremi.
       I can't wait to meet her. Wishing you a safe delivery.
       `,
     },
@@ -149,7 +178,7 @@ const showerWishes = [
       name: 'Mariam',
       comment: `
       My Seyi baby is having a baby. Congratulations my darling.
-      God bless and keep her. May she always be a source of joy and lightto you and Dipo and the world at large.
+      God bless and keep her. May she always be a source of joy and light to you and Dipo and the world at large.
       May her Arrival come with plenty new blessings for your family.
       Congratulations again Seyi and Dipo.
       All my love.
@@ -159,6 +188,17 @@ const showerWishes = [
   {
     type: 'video',
     url: 'https://elmagnifico.s3.eu-west-2.amazonaws.com/susan.MP4',
+  },
+  {
+    type: 'image',
+    comment: {
+      name: 'Femi',
+      comment: `
+      Congratulations Kelebe and Donasile as you wait for baby's big debut.
+      Our Kelebe 5... O po o po!!!!!!!!
+      You guys are going to be wonderful parents.
+      `,
+    },
   },
 ];
 
