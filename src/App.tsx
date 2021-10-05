@@ -169,6 +169,24 @@ const showerWishes = [
     url: 'https://elmagnifico.s3.eu-west-2.amazonaws.com/bolanle.MP4',
   },
   {
+    type: 'image',
+    comment: {
+      name: 'Omotola',
+      comment: `
+      Oh my Ariyike,
+      I can't wait to touch your tiny toes and fingers.
+      Look into your pretty eyes.
+      See your perfect smile and soft giggles.
+      Thank you for choosing your daddy and mummy - they patiently waited for you.
+      Thank you for choosing us to be your aunties and uncles.
+      May God bless you and keep you. Cause His face to shine upon and be gracious to you.
+      May His favour be upon you, may your light shine so bright.
+      Everyone you come in contact with will be blessed.
+      Lots of love from your ever reliable Aunty Hampshire!
+      `,
+    },
+  },
+  {
     type: 'video',
     url: 'https://elmagnifico.s3.eu-west-2.amazonaws.com/dina.MP4',
   },
