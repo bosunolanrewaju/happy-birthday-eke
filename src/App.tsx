@@ -131,8 +131,7 @@ const showerWishes = [
       name: 'Kenny & Bosun',
       comment: `We can't express enough how thrilled we are for the both of you,
       And how excited we are to meet the little bundle of joy. She's going to be one lucky baby because she's going to have amazing parents.
-      May  this little miracle make your world more beautiful and joyful.
-      Congratulations!!!.
+      May this little miracle make your world more beautiful and joyful ❤️
       `,
     },
   },
