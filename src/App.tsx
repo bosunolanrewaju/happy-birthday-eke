@@ -83,15 +83,16 @@ const showerWishes = [
     type: 'video',
     url: 'https://elmagnifico.s3.eu-west-2.amazonaws.com/debbie.MP4',
   },
-  // {
-  //   type: 'image',
-  //   comment: {
-  //     name: 'Leke',
-  //     comment: `
-      
-  //     `,
-  //   },
-  // },
+  {
+    type: 'image',
+    comment: {
+      name: 'Leke',
+      comment: `
+      Congratulations and all the best on the upcoming arrival of your little one.
+      I'm so happy for you, you will both be amazing parents.
+      `,
+    },
+  },
   {
     type: 'video',
     url: 'https://elmagnifico.s3.eu-west-2.amazonaws.com/busayo.MP4',
